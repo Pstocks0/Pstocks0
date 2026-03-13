@@ -24,19 +24,6 @@ Currently an internal Software Developer and Data Scientist at **Distynct**, and
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Update these names/links once repos are live -->
-
-**[🔮 Prediction Pipeline](#)** — Deployed ML model system surfacing insights for clients and partners. Python · AWS · SQL · Docker
-
-**[🤖 LLM Agent Platform](#)** — Orchestration layer for AI agents integrated with Slack, databases, and web APIs. TypeScript · LLM
-
-**[🌐 Full-Stack Application](#)** — End-to-end web application with auth, middleware, and data management. TypeScript · Python · AWS
-
-**[🛠 Internal Tooling](#)** — Suite of developer and operational tools built to solve real workflow problems. Python · Docker
-
----
 
 ## 📬 Get in Touch
 
