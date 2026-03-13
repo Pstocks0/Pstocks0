@@ -1,4 +1,4 @@
-# Hey, I'm Preston. 👋
+# Hey, I'm Preston
 
 **Software Developer · Data Scientist · AI Systems Engineer**
 Ames, IA | [prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
