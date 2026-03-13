@@ -28,7 +28,7 @@ Currently an internal Software Developer and Data Scientist at **Distynct**, and
 ## 📬 Get in Touch
 
 Open to new opportunities. If you're working on something interesting, reach out:
-[prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)## Hi there 👋
+[prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
 
 <!--
 **Pstocks0/Pstocks0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
