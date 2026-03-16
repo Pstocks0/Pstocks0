@@ -11,7 +11,7 @@ Currently an internal Software Developer and Data Scientist at **Distynct**, and
 
 ---
 
-## 🛠 What I Work With
+## What I Work With
 
 | Category | Technologies |
 |---|---|
@@ -25,7 +25,7 @@ Currently an internal Software Developer and Data Scientist at **Distynct**, and
 ---
 
 
-## 📬 Get in Touch
+## Get in Touch
 
 Open to new opportunities. If you're working on something interesting, reach out:
 [prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
