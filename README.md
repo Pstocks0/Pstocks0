@@ -23,12 +23,6 @@ Currently I work as an internal Software Developer and Data Scientist at **Disty
 
 ---
 
-
-## Get in Touch
-
-Open to new opportunities. If you're working on something interesting, reach out:
-[prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
-
 ## Works
 Here are some screenshots from my projects, both finished and still in development
 
@@ -37,3 +31,11 @@ Here are some screenshots from my projects, both finished and still in developme
 <img width="3840" height="1958" alt="Reports Poster" src="https://github.com/user-attachments/assets/38799965-01d8-4034-8f76-b2652d2a5c36" />
 <img width="3840" height="2160" alt="Workspace Landing Page" src="https://github.com/user-attachments/assets/ba4aef9b-595f-46ec-b3c2-1bbb9df48e8d" />
 <img width="3840" height="2160" alt="Workspace Poster" src="https://github.com/user-attachments/assets/83977cb9-a591-49df-a5e5-7dd8d3049184" />
+
+
+---
+
+## Get in Touch
+
+Open to new opportunities. If you're working on something interesting, reach out:
+[prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
