@@ -1,7 +1,7 @@
 # Hey, I'm Preston
 
 **Software Developer · Data Scientist · AI Systems Engineer**
-Ames, IA | [prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
+Ames, IA | [prestonrstocks@Outlook.com](mailto:prestonrstocks@outlook.com)
 
 ---
 
@@ -38,4 +38,4 @@ Here are some screenshots from my projects, both finished and still in developme
 ## Get in Touch
 
 Open to new opportunities. If you're working on something interesting, reach out:
-[prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
+[prestonrstocks@outlook.com](mailto:prestonrstocks@outlook.com)
