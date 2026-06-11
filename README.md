@@ -26,11 +26,14 @@ Currently I work as an internal Software Developer and Data Scientist at **Disty
 ## Works
 Here are some screenshots from my projects, both finished and still in development
 
+<img width="2560" height="1600" alt="Screenshot 2026-05-31 160039" src="https://github.com/user-attachments/assets/308e4ad9-1c4d-437f-a23b-fc0bf968c444" />
 <img width="3840" height="2088" alt="Inventory Poster" src="https://github.com/user-attachments/assets/98f785fa-0966-4258-8e71-2fe337465464" />
 <img width="3840" height="2088" alt="ORP Poster" src="https://github.com/user-attachments/assets/9cbfd9a5-5a65-467b-a337-3e9c56e0736f" />
 <img width="3840" height="1958" alt="Reports Poster" src="https://github.com/user-attachments/assets/38799965-01d8-4034-8f76-b2652d2a5c36" />
 <img width="3840" height="2160" alt="Workspace Landing Page" src="https://github.com/user-attachments/assets/ba4aef9b-595f-46ec-b3c2-1bbb9df48e8d" />
-<img width="3840" height="2160" alt="Workspace Poster" src="https://github.com/user-attachments/assets/83977cb9-a591-49df-a5e5-7dd8d3049184" />
+<img width="1920" height="1044" alt="Screenshot 2026-06-05 144303" src="https://github.com/user-attachments/assets/f91d078b-438f-42f8-9434-bea78828bdf6" />
+
+
 
 
 ---
