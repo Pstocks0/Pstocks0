@@ -6,7 +6,7 @@ Ames, IA | [prestonrstocks@Outlook.com](mailto:prestonrstocks@outlook.com)
 ---
 
 I build things that work — full-stack web and desktop applications, predictive models, AI-powered pipelines, and internal tools that save real time.
-Currently I work as an internal Software Developer and Data Scientist at **Distynct**, and the lead developer for **Waterfall Signatures**, an AI, SaaS, and research startup I co-founded with a colleague.
+Currently I work as an internal Software Developer and Data Scientist at **Distynct**, and part time as the lead developer for **Waterfall Signatures**, an AI, SaaS, and research startup I co-founded with a colleague.
 
 ---
 
