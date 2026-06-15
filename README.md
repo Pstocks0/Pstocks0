@@ -1,7 +1,7 @@
 # Hey, I'm Preston
 
 **Software Developer · Data Scientist · AI Systems Engineer**
-Ames, IA | [prestonrstocks@Outlook.com](mailto:prestonrstocks@outlook.com)
+Ankeny, IA | [prestonrstocks@Outlook.com](mailto:prestonrstocks@outlook.com)
 
 ---
 
