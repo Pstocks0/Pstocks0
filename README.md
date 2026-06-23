@@ -41,4 +41,4 @@ Here are some screenshots from my projects, both finished and still in developme
 ## Get in Touch
 
 Open to new opportunities. If you're working on something interesting, reach out:
-[prestonrstocks@outlook.com](mailto:prestonrstocks@outlook.com)
+[prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
