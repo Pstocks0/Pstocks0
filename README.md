@@ -6,7 +6,7 @@ Ankeny, IA | [prestonrstocks@gmail.com](mailto:prestonrstocks@gmail.com)
 ---
 
 I build things that work — full-stack web and desktop applications, predictive models, AI-powered pipelines, and internal tools that save real time.
-Currently I work as a contract internal Software Developer and Data Scientist at [**Distynct**](https://www.getdistynct.com/), and part time as the lead developer for **Waterfall Signature**, an AI, SaaS, and research startup I co-founded with a colleague.
+Currently I work as a contract internal Software Developer and Data Scientist at [**Distynct**](https://www.getdistynct.com/), and part time as the lead developer for **Waterfall Signature**, an AI, SaaS, and research startup I co-founded with a colleague. Most of my work in in private client repositories, but I am happy to share to interested parties.
 
 Check out my latest work! [**PIGE**](https://pige.live/)
 
